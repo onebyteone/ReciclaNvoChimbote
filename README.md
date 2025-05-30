@@ -43,7 +43,7 @@
  
 ## 🎨 Diseño de la Interfaz
 
-Para mayor información del diseño UI/UX, ir a [UI.md](../UI.md).
+Para mayor información del diseño UI/UX, ir a [UI.md](../blob/master/UI.md).
 
 ## 🎯 Objetivo del Proyecto
 
