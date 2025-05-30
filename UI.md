@@ -2,8 +2,6 @@
 
 Este documento describe las interfaces principales de usuario (UI) para la aplicación móvil **Recicla Nuevo Chimbote**, orientadas tanto al **usuario reciclador (ciudadano)** como al **reciclador recolector**. Se especifican pantallas, componentes, y flujos clave.
 
----
-
 ## 👤 Usuario Ciudadano
 
 ### 1. Pantalla de Registro / Inicio de Sesión
@@ -17,8 +15,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - `Iniciar Sesión`
   - `¿Olvidaste tu contraseña?`
 
----
-
 ### 2. Dashboard Principal
 - **Componentes:**
   - Resumen de Puntos
@@ -28,8 +24,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
 - **Botones:**
   - `Ver Historial de Puntos`
   - `Ver Historial de Canjes`
-
----
 
 ### 3. Pantalla de Canje de Recompensas
 - **Lista de Recompensas:**
@@ -41,8 +35,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - Detalles del canje
   - Confirmación del usuario
 
----
-
 ### 4. Mapa de Puntos de Reciclaje
 - **Mapa Interactivo:**
   - Vista geolocalizada
@@ -53,8 +45,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - Tipo de reciclaje aceptado
   - Horarios de disponibilidad
 
----
-
 ### 5. Chatbot de Reciclaje
 - **Interfaz de Chat:**
   - Entrada de texto del usuario
@@ -63,8 +53,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - `¿Qué puedo reciclar?`
   - `¿Dónde reciclo plástico?`
   - `Ver puntos cercanos`
-
----
 
 ### 6. Perfil de Usuario
 - **Datos Personales:**
@@ -78,8 +66,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - `Editar Información`
   - `Cerrar Sesión`
 
----
-
 ## 🚛 Usuario Reciclador Recolector
 
 ### 1. Pantalla de Inicio de Sesión
@@ -89,8 +75,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
 - **Botones:**
   - `Iniciar Sesión`
   - `¿Olvidaste tu contraseña?`
-
----
 
 ### 2. Escaneo de QR
 - **Interfaz de Cámara:**
@@ -102,8 +86,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - Puntos a otorgar
   - Botón `Confirmar Registro`
 
----
-
 ### 3. Historial de Registros
 - **Lista Cronológica:**
   - Usuario registrado
@@ -112,8 +94,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
 - **Filtros:**
   - Por fecha
   - Por nombre de usuario
-
----
 
 ## 🧩 Consideraciones de Diseño
 
@@ -124,9 +104,6 @@ Este documento describe las interfaces principales de usuario (UI) para la aplic
   - Confirmaciones claras en acciones sensibles
   - Feedback visual en escaneos y canjes
 
----
-
 ## ✅ Próximos Pasos
 - Bocetado de pantallas (Wireframes)
 - Prototipo en Figma
-- Integración con backend (Firebase u otra solución BaaS)
