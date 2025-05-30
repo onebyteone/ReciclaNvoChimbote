@@ -40,6 +40,10 @@
 - Funcionalidades:
   - **Escaneo de QR** del usuario con la cámara del dispositivo.
   - Visualización del **historial de registros de reciclaje**.
+ 
+## 🎨 Diseño de la Interfaz
+
+Para mayor información del diseño UI/UX, ir a [UI.md](../UI.md).
 
 ## 🎯 Objetivo del Proyecto
 
